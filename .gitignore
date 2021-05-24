@@ -1,5 +1,9 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+/.git/
+/.idea/
+*.tar
+*.tar.gz
+*.tmp
+*.bak
+*.log
+*log*.txt
+.lock
